@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">Pizza House</string>
+    <string name="banner_ad_unit_id">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="appwidget_text">Order History</string>
+    <string name="add_widget">Add widget</string>
+    <string name="open_location_settings">open location</string>
+    <string name="Cancel">Cancel</string>
+    <string name="Reorder">Reorder</string>
+    <string name="DeleteOrder">Delete Order</string>
+    <string name="PizzaHouseNumber">0100000678</string>
+    <string name="PermissionDenied">Permission Denied</string>
+    <string name="emptyCart">The Cart is Empty </string>
+    <string name="choose_wisely">Choose wisely </string>
+    <string name="wifi_error">Choose wisely </string>
+    <string name="Checkout">Checkout</string>
+    <string name="number">Our number : 0100000647</string>
+    <string name="find_us">find us</string>
+    <string name="order_history">order history</string>
+    <string name="order">order</string>
+    <string name="Open_location">Open location</string>
+    <string name="location_button"> Find location wont work until you open location service</string>
+    <string name="backGround">back Ground photo</string>
+    <string name="backGroundLogo">back Ground logo</string>
+    <string name="makeCall">Call us</string>
+    <string-array name="pizzaList">
+        <item>Pepperoni Pizza</item>
+        <item>Chicken Ranch Pizza</item>
+        <item>Margherita Pizza</item>
+        <item>Chicken BBQ Pizza</item>
+        <item>Garden Special Pizza</item>
+    </string-array>
+
+    <string-array name="dList">
+        <item>Pepperoni and mozzarella cheese</item>
+        <item>Grilled chicken, spicy jalapeno slices, tomatoes, mushroom and ranch sauce</item>
+        <item>Mozzarella cheese and pizza sauce</item>
+        <item>Grilled chicken, onion, mushroom and barbeque sauce</item>
+        <item>Tomatoes, mushroom, green pepper, onion and black olives</item>
+    </string-array>
+
+
+
+</resources>
