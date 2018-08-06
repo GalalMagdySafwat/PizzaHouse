@@ -12,7 +12,7 @@
     <string name="PermissionDenied">Permission Denied</string>
     <string name="emptyCart">The Cart is Empty </string>
     <string name="choose_wisely">Choose wisely </string>
-    <string name="wifi_error">Choose wisely </string>
+    <string name="wifi_error">Open you wifi and Click here</string>
     <string name="Checkout">Checkout</string>
     <string name="number">Our number : 0100000647</string>
     <string name="find_us">find us</string>
